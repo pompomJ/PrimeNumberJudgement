@@ -1,4 +1,4 @@
-#素数判定関数
+#素数を判定する関数
 def get_primes(x = 2):
     while True:
         for i in range(2, x):
